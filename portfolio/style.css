@@ -59,9 +59,11 @@ a {
 #moderate {
 	float: right;
 	padding: 10px;
+	margin: auto;
 }
 #wonky {
 	float: right;
 	width: 300px;
 	height: 400px;
+	margin: auto;
 	}

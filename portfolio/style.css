@@ -40,3 +40,14 @@ a {
 #serious {
   width:1500px;
 }
+
+#fun {
+  width: 300px;
+  height: 300px;
+  float: right;
+  padding: 10px;
+}
+#ugh {
+  float: right;
+  padding: 10px;
+}

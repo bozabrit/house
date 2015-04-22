@@ -19,6 +19,8 @@ ul {
   height: 300px;
   width: 170px;
   color: gray;
+  border: 1px solid green;
+  padding: 10px;
 }
 strong {
   color: black;

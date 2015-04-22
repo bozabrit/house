@@ -59,3 +59,7 @@ a {
 	float: center;
 	padding: 10px;
 }
+#wonky {
+	float: center;
+	width: 400px;
+	height: 600px;

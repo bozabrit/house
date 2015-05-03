@@ -3,12 +3,12 @@
 }
 
 #outer {
-	height: 800px;
+	height: 850px;
 	width: 300px;
 	background-color: #d0efd3;
 	position: absolute;
 	margin-left: -10px;
-  margin-top: -20px;
+  margin-top: -25px;
   border-radius: 10px;
 }
 

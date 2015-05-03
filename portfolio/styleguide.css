@@ -70,7 +70,7 @@ a:hover {
 #cat {
   position: relative;
   float: right;
-  margin-top: 40px;
+  margin-top: -20px;
   margin-right: -540px;
   width: 50px;
   height: 100px;
@@ -81,7 +81,7 @@ a:hover {
   width: 70px;
   position: relative;
   float: right;
-  margin-top: -90px;
+  margin-top: -140px;
   margin-right: -600px;
 }
 
@@ -90,7 +90,7 @@ a:hover {
   width: 75px;
   position: relative;
   float: right;
-  margin-top: -92px;
+  margin-top: -142px;
   margin-right: -500px;
 }
 

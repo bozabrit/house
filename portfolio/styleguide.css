@@ -8,7 +8,7 @@
 	background-color: #d0efd3;
 	position: absolute;
 	margin-left: -10px;
-  margin-top: -30px;
+  margin-top: -15px;
   border-radius: 10px;
 }
 
@@ -24,11 +24,11 @@
 }
 
 #navigation {
-  padding: 35px;
+  padding: 40px;
   margin-bottom: 100px;
   font-family: cursive;
   font-size: 20px;
-  margin-top: -220px;
+  margin-top: -250px;
   margin-left: 60px;
   color: #424059;
 }
@@ -43,7 +43,6 @@
 a:hover {
    color: #9690c9;
 }
-
 
 .body {
   positon: relative;
@@ -62,7 +61,7 @@ a:hover {
   font-family: Georgia;
   float: left;
   margin-left: -180px;
-  margin-top: 40px;
+  margin-top: 20px;
   width: 650px;
   color: #424059;
 }
@@ -70,7 +69,7 @@ a:hover {
 #cat {
   position: relative;
   float: right;
-  margin-top: -20px;
+  margin-top: 80px;
   margin-right: -540px;
   width: 50px;
   height: 100px;
@@ -81,8 +80,8 @@ a:hover {
   width: 70px;
   position: relative;
   float: right;
-  margin-top: -140px;
-  margin-right: -590px;
+  margin-top: -20px;
+  margin-right: -600px;
 }
 
 #mail {
@@ -90,8 +89,8 @@ a:hover {
   width: 75px;
   position: relative;
   float: right;
-  margin-top: -142px;
-  margin-right: -490px;
+  margin-top: -22px;
+  margin-right: -500px;
 }
 
 #photo {
